@@ -1,0 +1,13 @@
+﻿# 构建产物
+build/
+sdkconfig.old
+
+# 备份文件
+*.bak
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 视频帧文件（可重新生成）
+videos/
